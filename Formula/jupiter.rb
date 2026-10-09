@@ -4,8 +4,8 @@ class Jupiter < Formula
   desc "Hands-free voice assistant for the Mac, powered by Claude Code"
   homepage "https://github.com/edwinanciani/void-project"
   url "https://raw.githubusercontent.com/edwinanciani/void-project/main/install.sh"
-  version "2026.10.08"
-  sha256 "54b95dd697379c3085a6dc8869aa7b19c98bbaeaea34112e19cb4be5b8e87c49"
+  version "2026.10.09"
+  sha256 "d79d41a0d239f28033101f8fa3b8b10129baffae5649ce8eea214433004448cf"
 
   depends_on :macos
 
